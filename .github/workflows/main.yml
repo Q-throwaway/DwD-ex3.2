@@ -1,4 +1,4 @@
-name: Deploying fullstack app to Heroku using Docker images
+name: ex3.2
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
